@@ -1,0 +1,7 @@
+{
+    "name": "nextserveless",
+    "version": 2,
+    "env": {
+      "MONGODB_URI": "mongodb+srv://root:1de5LXXgVBwmckjU@cluster0.g3mvh.mongodb.net/sample_mflix?retryWrites=true"
+    }
+  }
